@@ -68,3 +68,10 @@ html, body {
   font-size: 18px;
 }
 
+.how-it-works .panel {
+  font-size: 1.3em;
+  font-weight: bold;
+  height: 120px;
+  line-height: 1.3em;
+}
+
