@@ -77,16 +77,18 @@ html, body {
 .home-features .safe {
   background-image: url(../img/secure.png);
   background-repeat: no-repeat;
-  background-position: 0 0;
+  background-position: 5% 50%;
 }
 
 .home-features .low-risk {
   background-image: url(../img/low-risk.png);
   background-repeat: no-repeat;
+  background-position: 5% 50%;
 }
 
 .home-features .decentralized {
   background-image: url(../img/decentralized.png);
   background-repeat: no-repeat;
+  background-position: 5% 50%;
 }
 
