@@ -74,3 +74,19 @@ html, body {
   line-height: 1.3em;
 }
 
+.home-features .safe {
+  background-image: url(../img/secure.png);
+  background-repeat: no-repeat;
+  background-position: 0 0;
+}
+
+.home-features .low-risk {
+  background-image: url(../img/low-risk.png);
+  background-repeat: no-repeat;
+}
+
+.home-features .decentralized {
+  background-image: url(../img/decentralized.png);
+  background-repeat: no-repeat;
+}
+
