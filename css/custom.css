@@ -1,3 +1,11 @@
+.site-header {
+  text-align: center;
+}
+
+.site-header h1 {
+  font-size: 42px;
+}
+
 .faq .jumbotron h1 {
   font-size: 24px;
   line-height: 1;
@@ -6,5 +14,9 @@
 .faq .jumbotron li {
   font-size: 18px;
   line-height: 1.5em;
+}
+
+.pricing thead {
+  background-color: #1c1e22;
 }
 
