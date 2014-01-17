@@ -65,8 +65,25 @@ body {
   line-height: 1.5em;
 }
 
-.pricing thead {
+.pricing {
+  text-align: center;
+}
+
+.pricing .price {
   background-color: #1c1e22;
+  margin-bottom: 30px;
+  padding: 20px 15px;
+}
+
+.pricing .price span {
+  font-style: italic;
+}
+
+.pricing .price h4 {
+  margin-top: 10px;
+}
+.pricing .price.second {
+  border-left: 1px solid #444;
 }
 
 .how-it-works h3 {
